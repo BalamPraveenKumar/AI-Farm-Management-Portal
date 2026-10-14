@@ -286,7 +286,7 @@ The repository includes demonstration videos showcasing:
 
 # 👨‍💻 Author
 
-**Praveen Kumar**
+**Balam Praveen Kumar**
 
 ---
 
